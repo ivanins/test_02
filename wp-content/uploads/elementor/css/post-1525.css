@@ -1,0 +1,16 @@
+.elementor-1525 .elementor-element.elementor-element-4801cd8{--display:flex;--min-height:400px;--justify-content:space-between;--background-transition:0.3s;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.82);--margin-block-start:0px;--margin-block-end:0px;--margin-inline-start:0px;--margin-inline-end:0px;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-1525 .elementor-element.elementor-element-4801cd8:not(.elementor-motion-effects-element-type-background), .elementor-1525 .elementor-element.elementor-element-4801cd8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E2E2E2;}.elementor-1525 .elementor-element.elementor-element-4801cd8, .elementor-1525 .elementor-element.elementor-element-4801cd8::before{--border-transition:0.3s;}.elementor-1525 .elementor-element.elementor-element-715dbd7 > .elementor-widget-container{margin:10px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1525 .elementor-element.elementor-element-eabd032{text-align:center;}.elementor-1525 .elementor-element.elementor-element-eabd032 .elementor-heading-title{color:#000000;font-family:"Roboto", Sans-serif;font-size:20px;font-weight:600;}.elementor-1525 .elementor-element.elementor-element-3967555{text-align:center;}.woocommerce .elementor-1525 .elementor-element.elementor-element-3967555 .price{color:#444444;}.woocommerce .elementor-1525 .elementor-element.elementor-element-3967555 .price ins{color:#000000;}.elementor-1525 .elementor-element.elementor-element-bf4f0f7 .elementor-button{background-color:#000000;border-radius:8px 8px 8px 8px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.89);}.elementor-1525 .elementor-element.elementor-element-bf4f0f7 .elementor-button:hover, .elementor-1525 .elementor-element.elementor-element-bf4f0f7 .elementor-button:focus{background-color:#000000;}.elementor-1525 .elementor-element.elementor-element-bf4f0f7 > .elementor-widget-container{margin:0px 0px 10px 0px;padding:0px 0px 0px 0px;}@media(min-width:768px){.elementor-1525 .elementor-element.elementor-element-4801cd8{--content-width:250px;}}/* Start custom CSS for theme-post-featured-image, class: .elementor-element-715dbd7 */.borde_listing {
+    border-radius: 20px; /* Establecer el radio de borde inicial */
+    transition: border-radius 0.3s; /* Transición de radio de borde con duración de 0.3 segundos */
+}
+
+.borde_listing:hover {
+    border-radius: 8px; /* Cambiar el radio de borde al hacer hover */
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4801cd8 */.borde_listing {
+    border-radius: 20px; /* Establecer el radio de borde inicial */
+    transition: border-radius 0.3s; /* Transición de radio de borde con duración de 0.3 segundos */
+}
+
+.borde_listing:hover {
+    border-radius: 8px; /* Cambiar el radio de borde al hacer hover */
+}/* End custom CSS */
